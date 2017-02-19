@@ -1336,3 +1336,8 @@ html:-moz-full-screen-ancestor {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+@font-face {
+  font-family: "ChapterFont";
+  src: url(BLKCHCRY.TTF);
+}

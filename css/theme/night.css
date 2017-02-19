@@ -291,3 +291,11 @@ body {
 .question {
     data-background: "#ff0000" !important;
 }
+
+.reveal .chapter h1{ 
+    font-family: "ChapterFont";
+}
+
+.reveal .chapter h2{ 
+    font-family: "ChapterFont";
+}
